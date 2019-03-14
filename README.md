@@ -1,2 +1,2 @@
 # routinecart-configuration
-QuickCart Configuration
+RoutineCart Configuration
